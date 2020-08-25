@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/celinaperalta/School/DataStructures/Pokersort/src/Pokersort.cpp
+iostream
+-
+cassert
+-
+vector
+-
+unordered_map
+-
+fstream
+-
+ctime
+-
+map
+-
+random
+-
+set
+-
+
